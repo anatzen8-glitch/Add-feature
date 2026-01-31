@@ -20,7 +20,7 @@ The `/1-create-issue` command captures issues. You need somewhere to store them.
 
 ### Option A: Linear (original setup)
 
-**What it is:** Issue tracker. Zevi uses it with MCP so Claude can create issues automatically.
+**What it is:** Issue tracker. Use it with MCP so Claude can create issues automatically.
 
 **Setup:**
 
